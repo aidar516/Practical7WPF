@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7YPrF6HjK4w1yhBP8U3A0kQ80HAnpcdf6KgB/jNHXGT9KpR7jK9fiylZIRChgawVPI9wcITyvbtwH9HfHeW15A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\valiu\\source\\repos\\C#\\Practical7WPF\\Practical7WPF\\Practical7WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valiu\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\valiu\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\valiu\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\valiu\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}
